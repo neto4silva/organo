@@ -1,0 +1,25 @@
+.input {
+    margin: 24px 0;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #EEEEEE;
+}
+
+.input input {
+    background-color: #393E46;
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #EEEEEE;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 5px 5px 15px #484e58;
+}
